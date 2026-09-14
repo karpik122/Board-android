@@ -45,7 +45,7 @@ Każda klasa ma komentarz nad deklaracją oraz przy ważniejszych metodach. Kome
 
 ## Uruchomienie w Android Studio
 
-1. Otwórz w Android Studio folder `D:\xx\Boardandroid`.
+1. Otwórz w Android Studio folder `\Boardandroid`.
 2. Przy pierwszym otwarciu zaakceptuj pobranie komponentów Gradle i Android SDK, jeśli program o to poprosi.
 3. Wybierz emulator lub telefon z Androidem 13 (API 33) albo nowszym.
 4. Kliknij **Run**.
